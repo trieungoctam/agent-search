@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+primp
+duckduckgo_search
+python-dotenv
+termcolor
+janus
+sse_starlette
+class_registry
+griffe
+setuptools
+sphinx
+bs4
+cachetools
+streamlit
+pyvis
